@@ -621,6 +621,7 @@ var swearlist=[
   "damned",
   "damnit",
   "darkey",
+  "daddy",
   "darkeys",
   "darkie",
   "darkies",
