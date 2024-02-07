@@ -40,7 +40,7 @@ var swearlist=[
   "arabushs",
   "areola",
   "areole",
-  "ball",
+  "balls",
   "argie",
   "armo",
   "armos",
